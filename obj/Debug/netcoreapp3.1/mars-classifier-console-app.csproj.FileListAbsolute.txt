@@ -1,0 +1,17 @@
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/mars-classifier-console-app.deps.json
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/mars-classifier-console-app.runtimeconfig.json
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/mars-classifier-console-app.runtimeconfig.dev.json
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/mars-classifier-console-app.dll
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/mars-classifier-console-app.pdb
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/obj/Debug/netcoreapp3.1/mars-classifier-console-app.csprojAssemblyReference.cache
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/obj/Debug/netcoreapp3.1/mars-classifier-console-app.AssemblyInfoInputs.cache
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/obj/Debug/netcoreapp3.1/mars-classifier-console-app.AssemblyInfo.cs
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/obj/Debug/netcoreapp3.1/mars-classifier-console-app.csproj.CoreCompileInputs.cache
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/obj/Debug/netcoreapp3.1/mars-classifier-console-app.dll
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/obj/Debug/netcoreapp3.1/mars-classifier-console-app.pdb
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/obj/Debug/netcoreapp3.1/mars-classifier-console-app.genruntimeconfig.cache
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/jocelynnhartwig/Dev/mars-classifier-console-app/obj/Debug/netcoreapp3.1/mars-classifier-console-app.csproj.CopyComplete
